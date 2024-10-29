@@ -1,7 +1,7 @@
 # LEHMinQR
 This repository accompanies the manuscript by Pellin et a. "Inferring the dynamics of quasi-reaction systems via nonlinear local mean field approximations".
 
-The abstract of the paper read as follow:
+The abstract of the paper is the following:
 
 _In the modelling of stochastic phenomena, such as quasi-reaction systems, parameter
 estimation of kinetic rates can be challenging, particularly when the time gap between
@@ -21,5 +21,7 @@ improvement in the kinetic rate estimation, particularly for data observed at la
 intervals. Additionally, the availability of an explicit solution makes the method robust to
 stiffness, which is often present in biological systems. An illustration on Rhesus
 Macaque data shows the applicability of the approach to the study of cell
-differentiation.
-_
+differentiation._
+
+CITE IT AS
+Framba, M., Vinciotti, V., Wit, E. C. (2024). Inferring the dynamics of quasi-reaction systems via nonlinear local mean-field approximations. Computational Statistics & Data Analysis.
