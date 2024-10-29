@@ -1,4 +1,4 @@
-# LEHMinQR
+# LMAinQR
 This repository accompanies the manuscript by Pellin et a. "Inferring the dynamics of quasi-reaction systems via nonlinear local mean field approximations".
 
 The abstract of the paper is the following:
