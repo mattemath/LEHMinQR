@@ -1,5 +1,5 @@
 # LEHMinQR
-This repository accompanies the manuscript by Pellin et a. "Inferring the dynamics of quasi-reaction systems via nonlinear local mean field approximations".
+This repository accompanies the manuscript by Framba et a. "Latent event history models for quasi-reaction systems.".
 
 The abstract of the paper is the following:
 
